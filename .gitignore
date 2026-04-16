@@ -1,6 +1,5 @@
 *submission.csv
-*.pkl
-*.joblib
+
 
 
 __pycache__/
