@@ -18,8 +18,8 @@ This web application uses Gradient Boosting (XGBoost) to predict passenger survi
 ## Installation
 1. Clone a repository
 ```
-git clone
-cd 
+git clone https://github.com/nemoirisgurl/titanic.git
+cd titanic
 ```
 2. Install dependecies
 ```
