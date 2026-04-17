@@ -1,6 +1,7 @@
 *submission.csv
-
-
+models/
+*.pkl
+*.joblib
 
 __pycache__/
 *.py[cod]
